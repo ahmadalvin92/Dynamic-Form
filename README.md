@@ -1,3 +1,6 @@
+![alt text](https://github.com/ahmadalvin92/Dynamic-Form/blob/main/public/Tampilan-Website/tampilanformuser.png?raw=true)
+![alt text](https://github.com/ahmadalvin92/Dynamic-Form/blob/main/public/Tampilan-Website/tampilandatauser.png?raw=true)
+![alt text](https://github.com/ahmadalvin92/Dynamic-Form/blob/main/public/Tampilan-Website/tampilanmasterdata.png?raw=true)
 Berikut adalah langkah-langkah untuk menjalankan website Form Dinamis Laravel 10:
 php 8.2.4 
 
