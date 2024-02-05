@@ -44,7 +44,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
             <a href="index3.html" class="brand-link d-flex align-items-center">
-                <img src="storage/Angkasa_Pura_II_logo_2014.svg.png" alt="Angkasa Pura II"
+                <img src="dist/img/Angkasa_Pura_II_logo_2014.svg.png" alt="Angkasa Pura II"
                     class="brand-image img-fluid elevation-3" style="opacity: .8; max-height: 30px; margin: 0 auto;">
             </a>
 
